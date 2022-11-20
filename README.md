@@ -11,7 +11,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-@sonycssh4g
+@sonycweb
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
