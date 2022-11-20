@@ -43,7 +43,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
 ```
-@swittecnologia
+@sonycweb
 ```
 
 # 𓊈𒆜 VPN MONEY: 𒆜𓊉
