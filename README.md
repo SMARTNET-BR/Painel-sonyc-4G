@@ -1,8 +1,8 @@
-#  𓊈𒆜 PAINEL VIP SWIT-4G 𒆜𓊉
+#  𓊈𒆜 PAINEL VIP SONYC-4G 𒆜𓊉
 
 ⚠ <b>SISTEMA SUPORTADO:</b></br>
 👉 <b>(UBUNTU 18)</b></br>
-⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠</b></br>
+⚠ <b>VPS PARA PAINEL WEB: https://www.avirahost.com.br ⚠</b></br>
 
 # 𓊈𒆜 COMANDO DE INSTALAÇÃO! 𒆜𓊉
 ```
@@ -11,7 +11,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-@swittplus4g
+@sonycssh4g
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
@@ -19,10 +19,6 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-sonyc-4G/raw/main/install/sincpainel.sh)
 ```
 
-# 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
-
-👉 https://github.com/JeanRocha91x/P-SSH-Swit-T-Plus
-</br></br>
 
 # 𓊈𒆜 ATUALIZAÇÕES: (31/10/2022) 𒆜𓊉
 ```
@@ -46,5 +42,5 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 @sonycweb
 ```
 
-# 𓊈𒆜 VPN MONEY: 𒆜𓊉
-👉 https://kiwify.app/NKl55g5.
+# 𓊈𒆜 SONYC WEB: 𒆜𓊉
+👉 https://t.me/sonycssh
