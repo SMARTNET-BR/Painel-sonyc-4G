@@ -20,7 +20,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Painel-
 ```
 
 
-# 𓊈𒆜 ATUALIZAÇÕES: (31/10/2022) 𒆜𓊉
+# 𓊈𒆜 ATUALIZAÇÕES: (22/11/2022) 𒆜𓊉
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
